@@ -5,10 +5,10 @@
 spring:
   profiles: dev         #开发环境 
   applition:
-    name:myspringcloud-config-demo-dev
+    name: myspringcloud-config-demo-dev
  ---
 spring:
   profiles: test         #测试环境
   applition:
-    name:myspringcloud-config-demo-test
+    name: myspringcloud-config-demo-test
 #请保存为UTF-8格式
